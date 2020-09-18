@@ -1,3 +1,3 @@
 # hello-world
 firstRepo
-My names kosta, i like video games, anime and more recently hololive EN
+My names kosta, i enjoy video games, anime and more recently hololive EN
